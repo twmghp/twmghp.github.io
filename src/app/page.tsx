@@ -20,7 +20,6 @@ export default async function Home() {
     <>
       <div className={styles['main-banner']}>
         <h1>Hi !</h1>
-        <p>I enjoy software development and figuring out how things work</p>
       </div>
       <div className={styles.banner}>
         <h2>Projects</h2>
